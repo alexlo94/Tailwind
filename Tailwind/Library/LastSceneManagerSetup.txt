@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/_Scenes/V2/Base 1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_Scenes/V2/Base 2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_Scenes/V2/Base 3.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_Scenes/V2/Menu 1.unity
+  isLoaded: 1
+  isActive: 1

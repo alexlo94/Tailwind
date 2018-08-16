@@ -1,0 +1,72 @@
+Feedback: Jonas (S)
+	The character needs animations and style (Animated characters)
+	Adventure game/vector game
+	More of an adventure game, less of a racing game
+	incorporate a running button to glide off of, or incorporate gradual input on the control stick
+	Incorporate mid-air puzzles or movement challenges
+	
+Feedback: Jack (S)
+	Left & Right bumper control scheme is confusing; changed camera a lot by accident
+		(Suggested to put camera on the select button?)
+	Character feels floaty and stiff; make more flexible
+	Lean into the direction of walking?
+	
+Feedback: Benjamin (S)
+	Top-down camera doesn't have much use past the first time; the levels are too small or too easy to remember.
+	It is hard to figure out where you're going to land.
+	The shadow of your character should indicate where you land, rather than being a real-time shadow.
+	Collectibles feel weird to collect because their hitbox is attached to them. Spinning causes them to be hard to grab.
+	
+Feedback: Melody (T)
+	Mode where you use math to make the character move automatically rather than playing a game
+		(Side panel where you input parameters into an equation to influence motion)
+		(The levels are slow and linear enough so as to encourage a matching game-type of rhythm.
+		If you're on platform A and you want to go to platform B, given that you move at speed 5m/s, which way would you set the wind in order to make a distance X)
+	In order for teachers like Melody to use something like Tailwind, the tool would have to be worth it in terms of functionality. It needs to cover enough material and check enough boxes in order to warrant its use.
+	
+Feedback: Sara (T)
+	Add a compass on the UI to denote wind direction
+	When switching to the top-down view you should be able to move the camera around, as if the dolly was in a central position of the level [THROWBACK TO THE SPLIT-SCREEN VIEW THAT RAMSAY SUGGESTED]
+	Should totally put walls on the outer bounds, like the stage should end
+	This game is a perfect fit in the application stage of the STEM teaching process.
+		Otherwise, there could be a tutorial that formally explains vectors that leads up to the gameplay.
+	Mode where the wind is set to one direction and the kids have to figure out the correct input [like a challenge mode]
+	
+
+Feedback: Kathleen (T)
+	Please add indicators on the 2D camera
+	totally remove height from the 2D camera
+	Would totally let the kids play the game before teaching and use it as a reference
+	Implement mechanics that reward the player: do better if you know vector math
+	In terms of incorporating vectors she had the following to say:
+		The wind should not interfere with gameplay and the view should be optional [maybe in educator mode only? ;) ]
+		It should provide contextual knowledge
+	The kids need a reason to stay and play the game [difficulty curve]
+	Provide hints after repeated frustration
+
+Feedback: Jing (P)
+Feedback: Ankita (P)
+Feedback: Kelly (P)
+Feedback: Davon (P)
+	
+Bugs:
+	Right Bumper Holding can sometimes cause gliding even if the player is grounded
+	The character moves unexpectedly, even after stopping input
+		Investigate input lag
+	Gliding and jumping get mixed up on "flower" stage
+		Player is unable to jump while on the main platform [Jumping works fine on outer platforms]
+		Player can glide without jumping, off of the main platform.
+	Jump pads don't work properly
+		The angle at which they are hit matters IMMENSELY; this should not be the case
+		
+~~Wind changing over time during gameplay
+~~Vectors on 2D mode: 
+	anything that's moviing should display every component of its movement vector
+	visualization of the vector field (bunch of quad game objects that rotate appropriately)
+	*height is not visualized in the top-down view 
+~~Split screen top-down and side-view
+
+~~Jetpack to influence directional input (jump pad but controllable/limited use)
+~~Enemies that affect you on a vector level (ranged that zaps away the magnitude of your movements vectors)
+~~enemies with magnetic fields that introduce more movement vectors
+~~check out yo frankie

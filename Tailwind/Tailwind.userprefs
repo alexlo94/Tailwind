@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RecordingRetarget.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DeathManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CollectibleBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\ReplayButtonBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RecordingRetarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlaybackRetarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RightCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WindManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WindDirectionTextBehavior.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
